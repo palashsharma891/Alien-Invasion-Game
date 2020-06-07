@@ -7,3 +7,5 @@ This project was inspired from the book "Python Crash Course", byt Eric Matthes.
 > fleet of aliens as they drop down the screen in levels that increase in speed
 > and difficulty. At the end of the project, you’ll have learned skills that will
 > enable you to develop your own 2D games in Pygame.
+
+Feel free to contribute or ask your doubts regarding this project. Here is my email - palashsharma891@gmail.com
