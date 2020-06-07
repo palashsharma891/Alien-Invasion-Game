@@ -1,6 +1,6 @@
 # Alien-Invasion-Game
 
-This project was inspired from the book "Python Crash Course", byt Eric Matthes. The description of the project given in the book is:
+This project was inspired from the book "Python Crash Course", by Eric Matthes. The description of the project given in the book is:
 
 > In the Alien Invasion project (Chapters 12, 13, and 14), you’ll use the
 > Pygame package to develop a 2D game in which the aim is to shoot down a
