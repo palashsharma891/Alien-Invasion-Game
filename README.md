@@ -8,4 +8,6 @@ This project was inspired from the book "Python Crash Course", by Eric Matthes. 
 > and difficulty. At the end of the project, you’ll have learned skills that will
 > enable you to develop your own 2D games in Pygame.
 
+Here is what the GUI look like : ![game_GUI](Screenshot(317).png)
+
 Feel free to contribute or ask your doubts regarding this project. Here is my email - palashsharma891@gmail.com
