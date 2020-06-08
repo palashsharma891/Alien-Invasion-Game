@@ -8,4 +8,10 @@ This project was inspired from the book "Python Crash Course", by Eric Matthes. 
 > and difficulty. At the end of the project, you’ll have learned skills that will
 > enable you to develop your own 2D games in Pygame.
 
+## How to play
+
+Press the left(<-) and right(->) arrow keys to move the ship.
+Press the space bar to fire bullets.
+The score  and levels will be recorded at the top while playing the game.
+
 Feel free to contribute or ask your doubts regarding this project. Here is my email - palashsharma891@gmail.com
