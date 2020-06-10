@@ -10,12 +10,9 @@ This project was inspired from the book "Python Crash Course", by Eric Matthes. 
 
 ## How to play
 
-Run the alien_invasion.py file\n
-
+Run the alien_invasion.py file.
 Press the left(<-) and right(->) arrow keys to move the ship.
-
 Press the space bar to fire bullets.
-
-The score  and levels will be recorded at the top while playing the game.
+The score and levels will be recorded at the top while playing the game.
 
 Feel free to contribute or ask your doubts regarding this project. Here is my email - palashsharma891@gmail.com
