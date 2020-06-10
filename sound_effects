@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jun 10 10:47:10 2020
+
+@author: Palash
+"""
+
+import pygame
+
+pygame.mixer.init()
+
+bullet_sound = pygame.mixer.Sound('sounds/laser12.wav')
+alien_sound = pygame.mixer.Sound('sounds/Explosion+1.wav')
