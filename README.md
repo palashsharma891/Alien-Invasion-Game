@@ -10,7 +10,7 @@ This project was inspired from the book "Python Crash Course", by Eric Matthes. 
 
 ## How to play
 
-Run the alien_invasion.py file.
+Run the alien_invasion.py file\n
 
 Press the left(<-) and right(->) arrow keys to move the ship.
 
